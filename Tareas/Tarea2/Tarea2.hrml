@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarea2 - 201901055</title>
+    <link rel="stylesheet" href="Tarea2.css">
+</head>
+<body>
+    <div id="video-container">
+        <video id="video" autoplay></video>
+    </div>
+    <div id="text-container">
+        <p id="texto"> Angel Geovany Aragón Pérez</p>
+        <p id="texto"> 201901055</p>
+        <div id="github">
+            <a href="https://github.com/Angelgt3/Semi1-Lab/Tareas/Tarea2">
+                <img id="github" src="logo_github.png" alt="Link de repositorio">
+            </a>
+        </div>
+    </div>
+    
+    
+    
+    <script src="Tarea2.js"></script>
+
+</body>
+</html>

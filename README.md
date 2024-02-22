@@ -1,2 +1,6 @@
-# Semi1-T2-201901055
-Tarea 2 de seminario de sistemas 1 
+# Semi1-Lab
+**Seminario de sistemas 1 - Primer semestre, 2024**
+___
+**Angel Geovany Aragón Pérez**  
+**201901055**
+___
