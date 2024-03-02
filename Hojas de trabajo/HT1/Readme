@@ -1,0 +1,38 @@
+#Angel Geovany Aragón Pérez - 201901055
+
+#Hoja de trabajo 1
+##Descripcion
+###PASO 1: Creacion de APIs
+Indicaciones:
+1.Crear 2 web APIs empleado el lenguaje y framework de su elecion.
+2.Ambas APIs deberan poseer 2 endpoints:
+    a. Endpoint 1 ("/check") endpoint utilizando para la verificacion de estado, debe retornar un codigo 200 (OK).
+    b. Endpoint 2 ("/") endpoint utilizado para obtener el objeto JSON respectivo para el APIs
+
+Consideraciones:
+1.Cada API debe desarrollarse en un lenguaje diferente obligatoriamente
+2.El endpoint 2 ("/") debera retornar un objeto JSON para cada API. Este deberá poseer la siguiente estructura
+
+API #1
+{
+    "Instancia": "Instancia #1 - API #1"
+    "Curso": "Seminario de sistemas 1"
+    "Estudiante": "Estudiante - <Carnet>"
+}
+
+API #2
+{
+    "Instancia": "Instancia #2 - API #2"
+    "Curso": "Seminario de sistemas 1"
+    "Estudiante": "Estudiante - <Carnet>"
+}
+
+###PASO 2: Creacion de instancias EC2, despligue de APIs y Creacion de ELB
+Indicaciones:
+1.Crear 2 instancias de EC2, estas deberan llamarse "Instancia-1" e "Instancia-2"
+2.A cada instancia EC2 se le debera cargar un API
+3.Crear el balanceador de carga 
+Consideraciones:
+1.Para realizar el despliegue de las APIs, se puede copiar el proyecto por medio de la herramienta Termius utilizando la opcion "SFTP", clonando un repositorio publico de github, cerando el proyecto directamente en la instancia y modificandolo segun indico o por el medio que mejor le convenga.
+2.El nombre del balanceador de carga debe seguir el siguiente formato:elb-semi1-ht1-#carne
+
