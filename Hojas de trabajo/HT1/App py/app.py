@@ -9,7 +9,7 @@ def get_student():
     data = {
         "Instancia": "Instancia #1 - API #1",
         "Curso": "Seminario de Sistemas 1",
-        "Estudiante": "Estudiante - 201901374"
+        "Estudiante": "Estudiante - 201901055"
     }
     return jsonify(data)
 
