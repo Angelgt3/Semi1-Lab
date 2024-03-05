@@ -11,12 +11,16 @@ En base a lo anterior realizar las siguientes capturas y adjuntarlas a un pdf
 
 • Capturas del código del servidor.
 ![1.png](./Imagenes/1.png )
+
 • Captura del servidor corriendo.
 ![2.png](./Imagenes/2.png )
+
 • Captura del Json ingresado y ruta creada (Postman).
 ![3.png](./Imagenes/3.png )
+
 • Imagen que se ingresó a analizar.
 ![4.jpg](./Imagenes/4.jpg )
+
 • Captura de las etiquetas devueltas por Rekognition.
 ![5.png](./Imagenes/5.png )
 
