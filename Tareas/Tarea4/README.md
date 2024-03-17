@@ -24,7 +24,7 @@ se ingresen.
 
 ![5.jpeg](./Imagenes/5.jpeg )
 
-• Captura de las etiquetas devueltas por Rekognition.
+• Captura del porcentaje 
 ![6.png](./Imagenes/6.png )
 
 
